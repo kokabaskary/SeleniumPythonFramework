@@ -1,0 +1,176 @@
+2020-06-23 12:15:30,494 :INFO :test_e2e : Getting all the card titles
+2020-06-23 12:15:30,519 :INFO :test_e2e : iphone X
+2020-06-23 12:15:30,529 :INFO :test_e2e : Samsung Note 8
+2020-06-23 12:15:30,540 :INFO :test_e2e : Nokia Edge
+2020-06-23 12:15:30,557 :INFO :test_e2e : Blackberry
+2020-06-23 12:15:30,777 :INFO :test_e2e : Entering Country Name as ind
+2020-06-23 12:15:36,206 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-23 12:20:28,181 :INFO :test_formSubmission : Name is Aelya
+2020-06-23 12:20:28,318 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:20:28,357 :INFO :test_formSubmission : Gender is Female
+2020-06-23 12:20:29,034 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 12:20:29,034 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 12:20:29,146 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:20:29,146 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:20:29,188 :INFO :test_formSubmission : Gender is Male
+2020-06-23 12:20:29,188 :INFO :test_formSubmission : Gender is Male
+2020-06-23 12:20:35,990 :INFO :test_e2e : Getting all the card titles
+2020-06-23 12:20:36,011 :INFO :test_e2e : iphone X
+2020-06-23 12:20:36,021 :INFO :test_e2e : Samsung Note 8
+2020-06-23 12:20:36,031 :INFO :test_e2e : Nokia Edge
+2020-06-23 12:20:36,042 :INFO :test_e2e : Blackberry
+2020-06-23 12:20:36,241 :INFO :test_e2e : Entering Country Name as ind
+2020-06-23 12:20:41,688 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-23 12:31:28,661 :INFO :test_formSubmission : Name is Aelya
+2020-06-23 12:31:28,848 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:31:28,905 :INFO :test_formSubmission : Gender is Female
+2020-06-23 12:31:29,531 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 12:31:29,531 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 12:31:29,625 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:31:29,625 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:31:29,665 :INFO :test_formSubmission : Gender is Male
+2020-06-23 12:31:29,665 :INFO :test_formSubmission : Gender is Male
+2020-06-23 12:31:36,517 :INFO :test_e2e : Getting all the card titles
+2020-06-23 12:31:36,549 :INFO :test_e2e : iphone X
+2020-06-23 12:31:36,562 :INFO :test_e2e : Samsung Note 8
+2020-06-23 12:31:36,572 :INFO :test_e2e : Nokia Edge
+2020-06-23 12:31:36,584 :INFO :test_e2e : Blackberry
+2020-06-23 12:31:36,785 :INFO :test_e2e : Entering Country Name as ind
+2020-06-23 12:31:42,224 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-23 12:53:13,748 :INFO :test_formSubmission : Name is Aelya
+2020-06-23 12:53:13,876 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:53:13,916 :INFO :test_formSubmission : Gender is Female
+2020-06-23 12:53:14,479 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 12:53:14,479 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 12:53:14,557 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:53:14,557 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:53:14,599 :INFO :test_formSubmission : Gender is Male
+2020-06-23 12:53:14,599 :INFO :test_formSubmission : Gender is Male
+2020-06-23 12:53:20,878 :INFO :test_e2e : Getting all the card titles
+2020-06-23 12:53:20,898 :INFO :test_e2e : iphone X
+2020-06-23 12:53:20,910 :INFO :test_e2e : Samsung Note 8
+2020-06-23 12:53:20,920 :INFO :test_e2e : Nokia Edge
+2020-06-23 12:53:20,932 :INFO :test_e2e : Blackberry
+2020-06-23 12:53:21,125 :INFO :test_e2e : Entering Country Name as ind
+2020-06-23 12:53:26,606 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-23 12:57:02,013 :INFO :test_e2e : Getting all the card titles
+2020-06-23 12:57:02,037 :INFO :test_e2e : iphone X
+2020-06-23 12:57:02,049 :INFO :test_e2e : Samsung Note 8
+2020-06-23 12:57:02,059 :INFO :test_e2e : Nokia Edge
+2020-06-23 12:57:02,070 :INFO :test_e2e : Blackberry
+2020-06-23 12:57:02,286 :INFO :test_e2e : Entering Country Name as ind
+2020-06-23 12:57:07,744 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-23 12:58:06,786 :INFO :test_formSubmission : Name is Aelya
+2020-06-23 12:58:06,920 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:58:06,959 :INFO :test_formSubmission : Gender is Female
+2020-06-23 12:58:07,531 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 12:58:07,531 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 12:58:07,620 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:58:07,620 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:58:07,660 :INFO :test_formSubmission : Gender is Male
+2020-06-23 12:58:07,660 :INFO :test_formSubmission : Gender is Male
+2020-06-23 12:58:13,274 :INFO :test_e2e : Getting all the card titles
+2020-06-23 12:58:13,297 :INFO :test_e2e : iphone X
+2020-06-23 12:58:13,308 :INFO :test_e2e : Samsung Note 8
+2020-06-23 12:58:13,318 :INFO :test_e2e : Nokia Edge
+2020-06-23 12:58:13,326 :INFO :test_e2e : Blackberry
+2020-06-23 12:58:13,522 :INFO :test_e2e : Entering Country Name as ind
+2020-06-23 12:58:18,969 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-23 12:59:22,667 :INFO :test_formSubmission : Name is Aelya
+2020-06-23 12:59:22,781 :INFO :test_formSubmission : Email is Askary
+2020-06-23 12:59:22,821 :INFO :test_formSubmission : Gender is Female
+2020-06-23 13:00:06,312 :INFO :test_formSubmission : Name is Aelya
+2020-06-23 13:00:06,503 :INFO :test_formSubmission : Email is Askary
+2020-06-23 13:00:06,553 :INFO :test_formSubmission : Gender is Female
+2020-06-23 13:00:07,038 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 13:00:07,038 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 13:00:07,127 :INFO :test_formSubmission : Email is Askary
+2020-06-23 13:00:07,127 :INFO :test_formSubmission : Email is Askary
+2020-06-23 13:00:07,169 :INFO :test_formSubmission : Gender is Male
+2020-06-23 13:00:07,169 :INFO :test_formSubmission : Gender is Male
+2020-06-23 13:00:13,753 :INFO :test_e2e : Getting all the card titles
+2020-06-23 13:00:13,777 :INFO :test_e2e : iphone X
+2020-06-23 13:00:13,790 :INFO :test_e2e : Samsung Note 8
+2020-06-23 13:00:13,799 :INFO :test_e2e : Nokia Edge
+2020-06-23 13:00:13,813 :INFO :test_e2e : Blackberry
+2020-06-23 13:00:14,046 :INFO :test_e2e : Entering Country Name as ind
+2020-06-23 13:00:19,513 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-23 13:03:40,992 :INFO :test_formSubmission : Name is Aelya
+2020-06-23 13:03:41,113 :INFO :test_formSubmission : Email is Askary
+2020-06-23 13:03:41,152 :INFO :test_formSubmission : Gender is Female
+2020-06-23 13:03:41,841 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 13:03:41,841 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 13:03:41,915 :INFO :test_formSubmission : Email is Askary
+2020-06-23 13:03:41,915 :INFO :test_formSubmission : Email is Askary
+2020-06-23 13:03:41,956 :INFO :test_formSubmission : Gender is Male
+2020-06-23 13:03:41,956 :INFO :test_formSubmission : Gender is Male
+2020-06-23 13:03:48,519 :INFO :test_e2e : Getting all the card titles
+2020-06-23 13:03:48,544 :INFO :test_e2e : iphone X
+2020-06-23 13:03:48,556 :INFO :test_e2e : Samsung Note 8
+2020-06-23 13:03:48,566 :INFO :test_e2e : Nokia Edge
+2020-06-23 13:03:48,576 :INFO :test_e2e : Blackberry
+2020-06-23 13:03:48,766 :INFO :test_e2e : Entering Country Name as ind
+2020-06-23 13:03:54,228 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-23 13:04:40,591 :INFO :test_formSubmission : Name is Aelya
+2020-06-23 13:04:40,748 :INFO :test_formSubmission : Email is Askary
+2020-06-23 13:04:40,788 :INFO :test_formSubmission : Gender is Female
+2020-06-23 13:04:41,252 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 13:04:41,252 :INFO :test_formSubmission : Name is Hassan
+2020-06-23 13:04:41,336 :INFO :test_formSubmission : Email is Askary
+2020-06-23 13:04:41,336 :INFO :test_formSubmission : Email is Askary
+2020-06-23 13:04:41,382 :INFO :test_formSubmission : Gender is Male
+2020-06-23 13:04:41,382 :INFO :test_formSubmission : Gender is Male
+2020-06-23 13:04:48,422 :INFO :test_e2e : Getting all the card titles
+2020-06-23 13:04:48,448 :INFO :test_e2e : iphone X
+2020-06-23 13:04:48,461 :INFO :test_e2e : Samsung Note 8
+2020-06-23 13:04:48,470 :INFO :test_e2e : Nokia Edge
+2020-06-23 13:04:48,482 :INFO :test_e2e : Blackberry
+2020-06-23 13:04:48,674 :INFO :test_e2e : Entering Country Name as ind
+2020-06-23 13:04:54,117 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-25 16:23:23,451 :INFO :test_e2e : Getting all the card titles
+2020-06-25 16:23:23,476 :INFO :test_e2e : iphone X
+2020-06-25 16:23:23,487 :INFO :test_e2e : Samsung Note 8
+2020-06-25 16:23:23,497 :INFO :test_e2e : Nokia Edge
+2020-06-25 16:23:23,509 :INFO :test_e2e : Blackberry
+2020-06-25 16:23:23,765 :INFO :test_e2e : Entering Country Name as ind
+2020-06-25 16:23:29,339 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-25 16:50:08,627 :INFO :test_e2e : Getting all the card titles
+2020-06-25 16:50:08,651 :INFO :test_e2e : iphone X
+2020-06-25 16:50:08,667 :INFO :test_e2e : Samsung Note 8
+2020-06-25 16:50:08,677 :INFO :test_e2e : Nokia Edge
+2020-06-25 16:50:08,690 :INFO :test_e2e : Blackberry
+2020-06-25 16:50:08,982 :INFO :test_e2e : Entering Country Name as ind
+2020-06-25 16:50:14,509 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-25 16:53:48,864 :INFO :test_formSubmission : first name is Aelya
+2020-06-25 17:00:21,038 :INFO :test_formSubmission : Name is Aelya
+2020-06-25 17:01:31,494 :INFO :test_formSubmission : first name is Aelya
+2020-06-25 17:06:15,313 :INFO :test_formSubmission : first name is Aelya
+2020-06-25 17:06:42,663 :INFO :test_formSubmission : Name is Aelya
+2020-06-25 17:08:52,895 :INFO :test_formSubmission : Name is Aelya
+2020-06-25 17:08:53,060 :INFO :test_formSubmission : Email is Askary
+2020-06-25 17:08:53,137 :INFO :test_formSubmission : Gender is Female
+2020-06-25 17:09:00,348 :INFO :test_e2e : Getting all the card titles
+2020-06-25 17:09:00,372 :INFO :test_e2e : iphone X
+2020-06-25 17:09:00,391 :INFO :test_e2e : Samsung Note 8
+2020-06-25 17:09:00,405 :INFO :test_e2e : Nokia Edge
+2020-06-25 17:09:00,417 :INFO :test_e2e : Blackberry
+2020-06-25 17:09:00,610 :INFO :test_e2e : Entering Country Name as ind
+2020-06-25 17:09:06,105 :INFO :test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-25 17:11:18,194 :INFO :test_formSubmission : Name is Aelya
+2020-06-25 17:11:18,322 :INFO :test_formSubmission : Email is Askary
+2020-06-25 17:11:18,391 :INFO :test_formSubmission : Gender is Female
+2020-06-25 17:12:29,824 :INFO :test_formSubmission : Name is Aelya
+2020-06-25 17:12:29,979 :INFO :test_formSubmission : Email is Askary
+2020-06-25 17:12:30,045 :INFO :test_formSubmission : Gender is Female

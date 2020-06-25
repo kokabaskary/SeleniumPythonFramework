@@ -1,0 +1,12 @@
+1592675848896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1x/xcq9zk0d0czcqbf1qx_zhrdr0000gn/T/rust_mozprofileQvpwD2"
+2020-06-20 13:57:30.828 plugin-container[61355:6816456] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2020-06-20 13:57:31.043 plugin-container[61355:6816456] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1074d2c70 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2020-06-20 13:57:31.046 plugin-container[61355:6816466] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1592675851530	Marionette	INFO	Listening on port 51040
+1592675851593	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-06-20 13:57:31.969 plugin-container[61356:6816535] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2020-06-20 13:57:32.054 plugin-container[61356:6816535] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10cfe1a30 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2020-06-20 13:57:32.066 plugin-container[61356:6816536] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
